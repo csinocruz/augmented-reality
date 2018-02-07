@@ -1,2 +1,2 @@
-# augmented-reality
-Augmented reality prototype for ghost project
+# Binary AR Patterns for Ghost Project
+Augmented reality will appear after pattern recognition. 
